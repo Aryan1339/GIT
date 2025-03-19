@@ -3,3 +3,7 @@ Different Conflicting Content from Branch 2
 
 Content from Branch 1
 master
+
+Conflicting Content from Branch 2
+
+origin/branch2
