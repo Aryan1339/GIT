@@ -1,1 +1,5 @@
+HEAD
 Different Conflicting Content from Branch 2
+
+Content from Branch 1
+master
