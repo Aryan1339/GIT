@@ -1,1 +1,1 @@
-Different Conflicting Content from Branch 2
+Conflicting Content from Branch 2
