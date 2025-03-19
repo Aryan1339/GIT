@@ -1,1 +1,5 @@
+ conflict-branch
 hello from previous world
+
+hello from another world (updated)
+ main
